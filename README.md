@@ -67,6 +67,8 @@ The idea is to develop **"RailNav"**, a smart, real-time indoor navigation solut
 4. **Rush Hour Scenario:** The app reroutes a passenger through a less crowded path to reach their platform in time.
 5. **Foreign Tourist:** Uses multilingual support (Hindi, English, Tamil, etc.) to navigate the station and find the food court.
 
+![_- visual selection](https://github.com/user-attachments/assets/6a44b2c7-17c7-4b60-9f62-2d18ecf5fdaf)
+
 ---
 
 ## Technology Stack  
